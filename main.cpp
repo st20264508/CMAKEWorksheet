@@ -2,6 +2,7 @@
 # include <cstdio>
 #include "colour.h"
 
+
 using std::cout;
 using std::endl;
 
